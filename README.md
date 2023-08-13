@@ -9,7 +9,8 @@ While am primarily create applications for fun, my skills and dedication have re
 Skills: SwiftUI / Figma / Sketch / Vapor / SQL 👩🏻‍💻.
 
 ## Examples of Work:
-<img src="https://github.com/Meshael/Coin-Purchase/BlueColorfulIllustrativeTravelAnimatedPresentation.gif" width="256" />
+
+<img src="https://github.com/Meshael/Coin-Purchase/Blue Colorful Illustrative Travel Animated Presentation.gif" width="256" />
 
 
 - 🔭 I’m currently working on Designing my next app.
