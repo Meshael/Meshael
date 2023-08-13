@@ -6,7 +6,11 @@ I'm from Saudi Arabia, I'm an iOS application developer and a skilled designer w
 My passion for creating iOS applications has led me to develop notable apps such as Nursing Frog, Trendy!, and PNU Metro. 
 While am primarily create applications for fun, my skills and dedication have resulted in successful releases on the App Store.
 
-Skills: SwiftUI / Figma / Sketch / Vapor / SQL 👩🏻‍💻.
+## Skills and Experience:
+* 💻 SwiftUI 
+* 🎨 Figma 
+* 💎 Sketch 
+* 🕸️ SQL, Vapor
 
 ## Examples of Work:
 
