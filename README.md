@@ -14,7 +14,7 @@ While am primarily create applications for fun, my skills and dedication have re
 
 ## Examples of Works:
 
-<img src="https://github.com/Meshael/Calender/blob/4b857d5d7469d6d6d1edc8d2d38c2f6b1eb533fb/work.gif" width="300" />
+<img src="https://github.com/Meshael/Calender/blob/4b857d5d7469d6d6d1edc8d2d38c2f6b1eb533fb/work.gif" width="500" />
 
 
 - 🔭 I’m currently working on Designing my next app.
