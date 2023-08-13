@@ -1,6 +1,5 @@
 ### Hi there 👋🏼, Mashael Alharbi
-#### iOS Developer | UX/UI Designer
-![iOS Developer | UX/UI Designer]  
+#### iOS Developer | UX/UI Designer 
 ![Marhaba](https://github.com/Meshael/Meshael/assets/19625138/fb00b513-f843-4e36-8455-81bc4a31b2e8)
 
 I'm from Saudi Arabia, I'm an iOS application developer and a skilled designer with expertise in using tools like Figma and Sketch. 
