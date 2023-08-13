@@ -1,4 +1,4 @@
-### Hi there 👋🏼, Mashael Alharbi
+### Hi there 👋🏼, I'm Mashael Alharbi
 #### iOS Developer | UX/UI Designer 
 ![Marhaba](https://github.com/Meshael/Meshael/assets/19625138/fb00b513-f843-4e36-8455-81bc4a31b2e8)
 
