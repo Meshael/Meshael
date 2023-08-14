@@ -1,5 +1,5 @@
 
-![Marhaba](https://github.com/Meshael/Meshael/assets/19625138/fb00b513-f843-4e36-8455-81bc4a31b2e8)
+<img width="908" alt="Screenshot 2023-08-14 at 2 59 26 AM" src="https://github.com/Meshael/Meshael/assets/19625138/7e611f0f-2a0a-4a9f-8aaa-740f1f15825f">
 
 ### Hi there 👋🏼, I'm Mashael Alharbi
 #### iOS Developer | UX/UI Designer 
